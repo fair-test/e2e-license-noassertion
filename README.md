@@ -1,2 +1,1 @@
-# e2e-license-noassertion
-README + custom unrecognized LICENSE
+# E2E License - NOASSERTION
